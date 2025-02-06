@@ -1,0 +1,45 @@
+{
+  "id": "I3E5642AB",
+  "title": {
+    "en": "A Detailed Explanation of the Definitive Meaning, A Commentary on Entering the Middle Way",
+    "bo": "དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ"
+  },
+  "author": {
+    "en": "None",
+    "bo": "པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན།"
+  },
+  "imported": "2025-02-06T11:00:07.277141",
+  "source": "https://library.bdrc.io/show/bdr:WA20401?tabs=bdr:MW20401,bdr:W20401",
+  "toolkit_version": "0.0.1",
+  "parser": "DocxNumberListCommentaryParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "presentation": {
+      "en": ""
+    },
+    "usage_title": {
+      "en": "A Detailed Explanation of the Definitive Meaning, A Commentary on Entering the Middle Way",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ"
+    },
+    "long_title": {
+      "en": "A Detailed Explanation of the Definitive Meaning, A Commentary on Entering the Middle Way",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ"
+    },
+    "commentary_of": "I7A5C542E",
+    "document_id": "1YYBQvjUFebixt22C6Zq6kLYMLbBCj70hCffCMAR2clQ",
+    "commentary_alignments": [
+      {
+        "source": "I7A5C542E/layers/A05D/Tibetan_Segment-232F.json",
+        "target": "I3E5642AB/layers/8087/Meaning_Segment-DDDD.json"
+      }
+    ]
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
